@@ -1,3 +1,3 @@
-print("First commit")
-print("Second commit")
+print("First commit!")
+print("Second commit!")
 
